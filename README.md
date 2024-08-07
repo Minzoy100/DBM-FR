@@ -1,4 +1,4 @@
-# DBM 🤖
+# DBM 🇫🇷🤖
 Besoin d'aide en Français sur le logiciel Discord Bot Maker ? Ce repo est fait pour vous !
 
 ## Présentation du projet 📄
