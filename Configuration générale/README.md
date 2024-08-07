@@ -1,7 +1,7 @@
-# Configuration générale
+# Configuration générale ⚙️
 Bien configuré ses logiciels et ses projets c'est primordiale ! Un logiciel bien configuré c'est un logiciel plus simple et plus à utilisé ! Je vais donc ici vous présentez comment configuré votre logiciel DBM ainsi que votre projet à l'aide de screen.
 
-## Démarrer un nouveau projet
+## Démarrer un nouveau projet 📄
 Quand c'est votre première fois sur DBM, il va vous être demandé si vous voulez ouvrir un projet ou créer un nouveau projet, comme vous êtes nouveau vous n'avez pas déjà un projet donc vous allez cliquer sur "créer un nouveau projet"
 Ensuite, cette fenêtre va apparaître : 
 
@@ -10,7 +10,7 @@ Ensuite, cette fenêtre va apparaître :
 Donc tout d'abord vous allez choisir le nom de votre projet/bot et sur la ligne d'en dessous vous allez choisir l'emplacement de où va être le dossier avec les fichiers du projet.
 Et pour finir je vous conseil de rester sur "**Blank Project**".
 
-### Configuration du nouveau projet
+### Configuration du nouveau projet ⚙️
 Une fois votre nouveau projet crée vous vous retrouverez sur cette page.
 
 ![nouveau projet vierge](https://i.imgur.com/l5qbVFb.png)
@@ -220,7 +220,7 @@ Ensuite le menu `Extensions`, ce menu permet de géré les extensions du bot.
 
 ***
 
-## Onglet `Settings` Dans notre projet
+## Onglet `Settings` Dans notre projet ⚙️
 Dans cet onglet, on retrouve plusieurs catégories comme : `Bot Settings`,`Bot Settings 2`,`Editor Settings`,`Slash Command Options`,`Text Command Options`.
 Je vais vous présenter les catégories une par une.
 
@@ -228,7 +228,7 @@ Je vais vous présenter les catégories une par une.
 
 ***
 
-### Bot Setings
+### Bot Setings ⚙️
 
 ![Catégorie Bot Settings](https://i.imgur.com/gwXEF9t.png)
 
@@ -255,7 +255,7 @@ Je vais vous présenter les catégories une par une.
 
 ***
 
-### Bot Settings 2
+### Bot Settings 2 ⚙️
 Désormais la 2ème catégorie de bot settings, elle qui est plus pour de la configuration diverse.
 
 ![Catégorie Bot Settings 2](https://i.imgur.com/287vRzU.png)
@@ -276,7 +276,7 @@ Désormais la 2ème catégorie de bot settings, elle qui est plus pour de la con
 
 ***
 
-### Editor Settings
+### Editor Settings 📊
 Dans cette catégorie ça va être la partie pour configuré notre logiciel DBM
 
 ![Catégorie Editor Settings](https://i.imgur.com/w042Uug.png)
@@ -301,7 +301,7 @@ Dans cette catégorie ça va être la partie pour configuré notre logiciel DBM
 
 ***
 
-### Slash Command Options
+### Slash Command Options ⚙️
 Cette catégorie permet de configuré toute la partie slash command (les commandes en `/`).
 
 ![Catégorie Slash Command Options](https://i.imgur.com/H4D0pow.png)
@@ -378,7 +378,7 @@ Cette catégorie permet de configuré toute la partie slash command (les command
 
 ***
 
-### Text Command Options
+### Text Command Options ⚙️
 Il s'agit ici des options pour les commandes textuels ou les commandes avec préfix.
 
 [catégorie Text Command Options](https://i.imgur.com/zejkqfO.png)
@@ -393,7 +393,7 @@ Il s'agit ici des options pour les commandes textuels ou les commandes avec pré
 
 ***
 
-## FIn des explications
+## FIn des explications 🛑
 Merci d'avoir suivi cette aide, je tiens à m'excuser des fautes d'ortographes ainsi que du manque d'informations je me renseignerais pour mettre à jour cette documentation.
 
 Si vous avez des idées ou des améliorations pour cette doc vous pouvez me contacter sur Discord sous mon pseudo : minzoy
