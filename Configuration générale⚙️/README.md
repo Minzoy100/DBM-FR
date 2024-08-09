@@ -5,7 +5,7 @@ Bien configuré ses logiciels et ses projets c'est primordiale ! Un logiciel bie
 Quand c'est votre première fois sur DBM, il va vous être demandé si vous voulez ouvrir un projet ou créer un nouveau projet, comme vous êtes nouveau vous n'avez pas déjà un projet donc vous allez cliquer sur "créer un nouveau projet"
 Ensuite, cette fenêtre va apparaître : 
 
-![Fenêtre de création d'un nouveau projet sur DBM](https://i.imgur.com/FDcfLR8.png)
+![Fenêtre de création d'un nouveau projet sur DBM](/ressources🗃️/new_bot_project.png)
 
 Donc tout d'abord vous allez choisir le nom de votre projet/bot et sur la ligne d'en dessous vous allez choisir l'emplacement de où va être le dossier avec les fichiers du projet.
 Et pour finir je vous conseil de rester sur "**Blank Project**".
@@ -13,11 +13,11 @@ Et pour finir je vous conseil de rester sur "**Blank Project**".
 ### Configuration du nouveau projet ⚙️
 Une fois votre nouveau projet crée vous vous retrouverez sur cette page.
 
-![nouveau projet vierge](https://i.imgur.com/l5qbVFb.png)
+![nouveau projet vierge](/ressources🗃️/project_vierge.png)
 
 On retrouve sur cette page une barre d'outils, je vais commencer par `file`, les raccourcis sont marqués en gris à côté des options. Ce menu permet principalement de gérer vos projets et votre projet actuel.
 
-![menu file dans la barre d'outil](https://i.imgur.com/jBBmpY3.png)
+![menu file dans la barre d'outil](/ressources🗃️/menu_file.png)
 
 <details>
 <summary>Liste des options du menu file</summary>
@@ -32,7 +32,7 @@ On retrouve sur cette page une barre d'outils, je vais commencer par `file`, les
 
 > - **Close Project** : permet de fermer votre projet, quand vous cliquer dessus il vous demande avant si vous voulez **annuler**,**ne pas sauvegarder** ou **sauvegarder** une fois que vous avez choisis sauvergarder ou ne pas sauvegarder vous allez attérir sur ce menu :
 >
-> ![Menu sans projet d'ouvert](https://i.imgur.com/qi6ydf5.png)
+> ![Menu sans projet d'ouvert](/ressources🗃️/without_project.png)
 
 ***
 
@@ -56,7 +56,7 @@ On retrouve sur cette page une barre d'outils, je vais commencer par `file`, les
 
 Ensuite le menu `Edit`, ce menu sert principalement à l'édition d'actions faites ou à l'édition textuelle.
 
-![Menu Edit dans la barre d'outils](https://i.imgur.com/1xE1czV.png)
+![Menu Edit dans la barre d'outils](/ressources🗃️/menu_edit.png)
 
 <details>
 <summary>Liste des options du menu Edit</summary>
@@ -81,7 +81,7 @@ Ensuite le menu `Edit`, ce menu sert principalement à l'édition d'actions fait
 
 Ensuite le menu `Window`, ce menu sert à géré votre logiciel DBM.
 
-![Menu Window dans la barre d'outils](https://i.imgur.com/Yc5ckZK.png)
+![Menu Window dans la barre d'outils](/ressources🗃️/menu_window.png)
 
 > [!CAUTION]
 > Attention aux options sur lesquelles vous cliquez dans ce menu, cela peut vous faire **perdres toute modifications non sauvegardées** !
@@ -115,7 +115,7 @@ Ensuite le menu `Window`, ce menu sert à géré votre logiciel DBM.
 
 Ensuite le menu `Zoom`, ce menu sert à géré votre zoom comme sur un navigateur avec `CTRL + molette`.
 
-![Menu Zoom dans la barre d'outils](https://i.imgur.com/HoX75KZ.png)
+![Menu Zoom dans la barre d'outils](/ressources🗃️/menu_zoom.png)
 
 <details>
 <summary>Liste des options du menu Zoom</summary>
@@ -132,7 +132,7 @@ Ensuite le menu `Zoom`, ce menu sert à géré votre zoom comme sur un navigateu
 
 Ensuite le menu `Project`, encore un grand menu qui lui sert à gérer votre projet.
 
-![Menu Project dans la barre d'outils](https://i.imgur.com/yU0fkew.png)
+![Menu Project dans la barre d'outils](/ressources🗃️/menu_project.png)
 
 <details>
 <summary>Liste des options du menu Project</summary>
@@ -146,7 +146,7 @@ Ensuite le menu `Project`, encore un grand menu qui lui sert à gérer votre pro
 ***
 
 > - **Module Manager** : Permet de gérer les modules de votre projet.
-> ![Module Manager](https://i.imgur.com/UXWysxs.gif)
+> ![Module Manager](/ressources🗃️/module_manager.gif)
 
 > - **Reset/Resinstall Default Node Modules** : Permet de ré installer ou de rénisialiser les modules de NodeJS par défaut (Présent dans le dossier `nodes_modules` dans le dossier de votre projet).
 
@@ -178,42 +178,42 @@ Ensuite le menu `Project`, encore un grand menu qui lui sert à gérer votre pro
 
  Ensuite le menu `Language`, lui permet de choisir la langue de votre logiciel, par défaut il n'y a que anglais. Je ne sais pas s'il existe de traduction en français, je vais donc essayer d'en faire une que je mettrais dans ce repo.
 
- ![Menu Language dans la barre d'outils](https://i.imgur.com/Jk83aYu.png)
+ ![Menu Language dans la barre d'outils](/ressources🗃️/menu_language.png)
 
  ***
 
 Ensuite le menu `Theme`, lui permet de choisir le thème de votre logiciel, il me semble que de base il n'y a que default, celui que j'ai a dû être téléchargé avec des mods.
 
-![Menu Theme dans la barre d'outils](https://i.imgur.com/5oXirCy.png)
+![Menu Theme dans la barre d'outils](/ressources🗃️/theme_menu.png)
 
 ***
 
 Ensuite le menu `Resources`, lui permet d'avoir des documentations et de l'aide pour DBM, cependant ces aides sont en anglais.
 
-![Menu Resources dans la barre d'outils](https://i.imgur.com/tccTAyD.png)
+![Menu Resources dans la barre d'outils](/ressources🗃️/menu_ressources.png)
 
 ***
 
 Ensuite le menu `About`, ce menu permet d'avoir les différents réseaux ou informations sur le logiciel.
 
-![Menu About dans la barre d'outils](https://i.imgur.com/eH1W9pS.png)
+![Menu About dans la barre d'outils](/ressources🗃️/menu_about.png)
 
 ***
 
 Ensuite le menu `Extensions`, ce menu permet de géré les extensions du bot.
 
-![Menu Extensions dans la barre d'outils](https://i.imgur.com/wJifFH2.png)
+![Menu Extensions dans la barre d'outils](/ressources🗃️/menu_extensions.png)
 
 <details>
 <summary>Liste des options du menu Extensions</summary>
 
 > - **Bot Intents** : Permet de gérer les instances du bot, vous pouvez également gérer ces instances dans le [portail de développeur Discord](https://discord.com/developers/applications).
 >
-> ![Menu de bot intents](https://i.imgur.com/Au6sJgV.png)
+> ![Menu de bot intents](/ressources🗃️/bot_intents.png)
 
 > - **Bot Partials** : **ℹ️ Je n'ai pas d'informations sur cette partie**.
 >
-> ![Menu de bot partials](https://i.imgur.com/So6hADS.png)
+> ![Menu de bot partials](/ressources🗃️/bot_partials.png)
 
   
 </details>
@@ -224,13 +224,13 @@ Ensuite le menu `Extensions`, ce menu permet de géré les extensions du bot.
 Dans cet onglet, on retrouve plusieurs catégories comme : `Bot Settings`,`Bot Settings 2`,`Editor Settings`,`Slash Command Options`,`Text Command Options`.
 Je vais vous présenter les catégories une par une.
 
-![Onglet Settings](https://i.imgur.com/6qR0HJ5.png)
+![Onglet Settings](/ressources🗃️/settings_bot_settings.png)
 
 ***
 
 ### Bot Setings ⚙️
 
-![Catégorie Bot Settings](https://i.imgur.com/gwXEF9t.png)
+![Catégorie Bot Settings](/ressources🗃️/bot_settings_settings.png)
 
 > - **Bot Owner ID** : Dans ce champ vous pouvez mettre l'ID du propriétaire du bot donc votre ID ([Comment obtenir une ID ?](https://support.discord.com/hc/fr/articles/206346498-O%C3%B9-trouver-l-ID-de-mon-compte-utilisateur-serveur-message))
 
@@ -241,7 +241,7 @@ Je vais vous présenter les catégories une par une.
 
 > Pour obtenir le token de votre bot, il vous suffit de vous rendre sur le [portail de développeur Discord](https://discord.com/developers/applications) une fois connecter, soit vous créez une application soit vous avez déjà une application. Une fois votre application créée vous devrez aller dans bot puis sur "Reset Token", cela va reset le token de votre bot pour vous afficher le nouveau. Si l'autentification à 2 facteurs est activée sur votre compte, votre code vous sera demandé (je vous conseille de le garder **en sécurité** quelque part pour ne pas devoir le reset en cas de modification sur votre projet).
 >
-> ![Comment obtenir le token de son bot](https://i.imgur.com/Drbwx73.gif)
+> ![Comment obtenir le token de son bot](/ressources🗃️/how_to_have_bot_token.gif)
 
 </details>
 
@@ -249,7 +249,7 @@ Je vais vous présenter les catégories une par une.
 
 > - **Permissions Integer** : Il s'agit ici de choisir quelles permissions vous voulez mettre sur l'invitation de votre bot, si vous laissez ce champ par défaut toute les permissions seront mise dans l'invitation, pour obtenir les numéro des permissions il vous suffis d'aller sur le calculateur de permission de Discord dans le [portail de développeur Discord](https://discord.com/developers/applications) que vous retrouverez `OAuth2`>`OAuth2 URL Generator`>`bot`.
 >
-> ![Comment avoir le numéro de permission](https://i.imgur.com/vgcP94I.gif)
+> ![Comment avoir le numéro de permission](/ressources🗃️/how_to_have_permission_id.gif)
 
 > - **Encryption Password** : **ℹ️Je ne sais pas de quoi il s'agit, je pense qu'il s'agit d'un mot de passe à mettre pour changer le token ou quelque chose comme ça mais je n'ai jamais utilisé cette option.**
 
@@ -258,7 +258,7 @@ Je vais vous présenter les catégories une par une.
 ### Bot Settings 2 ⚙️
 Désormais la 2ème catégorie de bot settings, elle qui est plus pour de la configuration diverse.
 
-![Catégorie Bot Settings 2](https://i.imgur.com/287vRzU.png)
+![Catégorie Bot Settings 2](/ressources🗃️/bot_settings_2.png)
 
 > - **Invalid Button Response** : Ce paramètre permet de définir une réponse invalide sur l'action d'un bouton.
 
@@ -270,7 +270,7 @@ Désormais la 2ème catégorie de bot settings, elle qui est plus pour de la con
 
 > - **Auto-Defean on Voice Channel Join** : Permet de définir si le bot doit couper le son du casque lorsque qu'il rejoint un salon vocal
 >
-> ![icône deafen](ressources/deafened.png)
+> ![icône deafen](/ressources🗃️/deafened.png)
 
 > - **Allow Bot Volume Changing in Actions** : Permet d'autoriser le changement de volume du bot dans certaines actions.
 
@@ -279,7 +279,7 @@ Désormais la 2ème catégorie de bot settings, elle qui est plus pour de la con
 ### Editor Settings 📊
 Dans cette catégorie ça va être la partie pour configuré notre logiciel DBM
 
-![Catégorie Editor Settings](https://i.imgur.com/w042Uug.png)
+![Catégorie Editor Settings](/ressources🗃️/editor_settings.png)
 
 > - **Editor Content Fill** : Permet de changer la largeur de votre espace de travail donc toute la zone grise. **Reset** permet de mettre la valeur à son état normal (`1200`). **Fill** Permet de remplir toute la zone disponible (2400) si vous ne mettez rien dans le champ toute la zone va automatiquement être occupée.
 
@@ -304,11 +304,11 @@ Dans cette catégorie ça va être la partie pour configuré notre logiciel DBM
 ### Slash Command Options ⚙️
 Cette catégorie permet de configuré toute la partie slash command (les commandes en `/`).
 
-![Catégorie Slash Command Options](https://i.imgur.com/H4D0pow.png)
+![Catégorie Slash Command Options](/ressources🗃️/settings_slash_command_option.png)
 
 > - **Slash Command Creation Preference** : Il y a ici beaucoup de choix, cette option vous permet de choisir comment et où vos slash command seront deployés. Si vous choisissez une option où il faut renseigner certain serveur l'espace texte en dessous se débloquera, vous devrez mettre les id des serveurs ici et une id par ligne. ([Comment avoir l'id de son serveur?](https://support.discord.com/hc/fr/articles/206346498-Où-trouver-l-ID-de-mon-compte-utilisateur-serveur-message)
 >
-> ![Aide Slash Command Creation Preference](https://i.imgur.com/JtOKYYf.gif)
+> ![Aide Slash Command Creation Preference](/ressources🗃️/slash_command_creation_help.gif)
 
 <details>
 <summary>Traduction de l'aide</summary>
@@ -381,7 +381,7 @@ Cette catégorie permet de configuré toute la partie slash command (les command
 ### Text Command Options ⚙️
 Il s'agit ici des options pour les commandes textuels ou les commandes avec préfix.
 
-[catégorie Text Command Options](https://i.imgur.com/zejkqfO.png)
+![catégorie Text Command Options](/ressources🗃️/text_command_option.png)
 
 > - **Command tag** : Permet de choisir le préfix du bot.
 
