@@ -102,17 +102,17 @@ Il s'agit d'une [slash command](https://support.discord.com/hc/en-us/articles/15
 ## Fonctionnement utilisateur
 La commande peut être appelée avec `/clear`. Une fois la commande sélectionnée, le paramètre obligatoire "nombre" apparaît dedans. Vous devez mettre des **nombres** ces nombres sont le nombre de messages que le bot doit supprimer. Cette commande a également un cooldown de 5 secondes.
 
-![prompt de la commande pour clear](ressources🗃️/commande/clear/command_clear_prompt.png)
+![prompt de la commande pour clear](/ressources🗃️/commande/clear/command_clear_prompt.png)
 
 Une fois cette commande éxécuté le bot va supprimer le nombre de message voulus seulement si l'utilisateur qui éxécute la commande a la permission "gérer les messages".
 
 exemple avec 10 messages : 
 
-![10 messages](../ressources🗃️/commande/clear/command_clear_test.png)
+![10 messages](/ressources🗃️/commande/clear/command_clear_test.png)
 
 Une fois la commande éxécuté : 
 
-![résultat de la commande](../ressources🗃️/commande/clear/command_clear_result.png)
+![résultat de la commande](/ressources🗃️/commande/clear/command_clear_result.png)
 
 ***
 
